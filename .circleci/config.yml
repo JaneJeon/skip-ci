@@ -13,8 +13,8 @@ aliases:
         type: string
 
 orbs:
-  node: circleci/node@4
-  slack: circleci/slack@4
+  node: circleci/node@4.9.0
+  slack: circleci/slack@4.5.1
 
 jobs:
   lint:
