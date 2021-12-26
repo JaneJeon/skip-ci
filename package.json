@@ -21,7 +21,7 @@
     "test": "./test.sh"
   },
   "devDependencies": {
-    "@janejeon/eslint-config": "^2.2.0",
+    "@janejeon/eslint-config": "2.2.1",
     "@janejeon/prettier-config": "^1.1.0",
     "husky": "^4.2.3",
     "lint-staged": "^12.0.2",
